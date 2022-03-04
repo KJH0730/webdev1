@@ -3,7 +3,7 @@ package user;
 public class User {
 	private String userID;
 	private String userPassword;
-	private String suerName;
+	private String userName;
 	private String userGender;
 	private String userEmail;
 	
@@ -19,11 +19,11 @@ public class User {
 	public void setUserPassword(String userPassword) {
 		this.userPassword = userPassword;
 	}
-	public String getSuerName() {
-		return suerName;
+	public String getuserName() {
+		return userName;
 	}
-	public void setSuerName(String suerName) {
-		this.suerName = suerName;
+	public void setuserName(String userName) {
+		this.userName = userName;
 	}
 	public String getUserGender() {
 		return userGender;

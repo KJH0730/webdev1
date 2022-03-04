@@ -9,5 +9,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sl879/OneDrive/바탕 화면/프로그래밍/JSP/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
